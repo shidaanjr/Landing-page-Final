@@ -1,0 +1,72 @@
+.container2{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    gap: 1px;
+    padding: 25px 0px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    
+}
+h3{ font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #333;
+    font-size: 1.825rem;
+    margin: 1.3rem 0;
+    text-align: center;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    margin: 1.3rem 0;
+    text-align: center
+}
+
+form{
+    margin: 25px 0px;
+    text-align: center;  
+   
+}
+form input{
+    background-color: #fff;
+    border: .5px solid rgb(199, 196, 196);
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    text-align: left;
+    color: black;
+    font-size: 16px;
+    padding: 5px;
+    outline: none;
+    padding-left: 20px;
+}
+form button{
+    background-color: #F9A826;
+    border: 1px solid #F9A826;
+    width: 140px;
+    height: 45px;
+    border-radius: 30px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.image img{
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+   
+}
+
+@media screen and (max-width: 400px) {
+   
+    
+}
