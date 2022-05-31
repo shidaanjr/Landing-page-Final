@@ -1,17 +1,14 @@
 import React from 'react';
 import './features.css';
-import services from '../../assets/services.svg';
 
 
 const Features = () => {
   return (
-    <div>
+    <div id='service'>
     
     <section>
   <h3>Our Services</h3>
-  <div >
-      <img src={services} alt="ai" className="picture" />
-    </div>
+  
   <div className="services-grid">
     <div className="service service1">
       <i className="ti-bar-chart" />

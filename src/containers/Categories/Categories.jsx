@@ -11,7 +11,7 @@ import {AiFillBank} from 'react-icons/ai'
 
 const Categories = () => {
   return (
-      <section id='category'>
+      <section id='Category'>
        <div className="title">
        <h5>Get To Know</h5>
        <h2>Our categories</h2>

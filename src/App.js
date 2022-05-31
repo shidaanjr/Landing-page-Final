@@ -2,7 +2,7 @@ import React from "react";
 import './App.css'
 import {Feature, Footer,  Header, Application, Categories} from './containers';
 import { Brand, Navbar} from  './components';
-
+import {HIW} from './components/HIW/HIW'
 
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
       <Header />
     
     <Brand />
+    <HIW/>
     <Categories/>
     <Feature/> 
     <Application/>
