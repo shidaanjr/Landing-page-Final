@@ -7,7 +7,8 @@ const Features = () => {
     <div id='service'>
     
     <section>
-  <h3>Our Services</h3>
+    <div id='service'>  <h3>Our Services</h3></div>
+
   
   <div className="services-grid">
     <div className="service service1">

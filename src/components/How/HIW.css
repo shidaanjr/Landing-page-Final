@@ -1,0 +1,60 @@
+.Steps{
+}
+
+.lilsteps{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  
+  
+  
+}
+
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #3F3D56;
+  font-size: 35px;
+  margin: 1.3rem 0 ;
+  margin-top: -100px;
+}
+.etape{
+      padding: 1.5rem 2rem;
+      text-align: center;
+      background-color: #f8f8f8;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      transition: 0.5s ease-in-out;
+      
+      
+}
+ 
+
+.num{
+  color: white;
+  background-color: #3F3D56;
+  border-radius: 70%;
+  height: 30px;
+  width: 30px;
+  font-size: 15px;
+  padding: 2.5px;
+  margin-right: 220px;
+
+}
+p {
+  color:  #a79997;
+}
+img {
+  height: 128px;
+  width: 128px;
+}
+@media screen and (min-width: 280px) and (max-width: 1080px) {
+  .Steps{ margin: 3rem;}
+  .ilsteps {
+    grid-template-columns: 1fr;
+  }
+}
