@@ -8,9 +8,8 @@ const Possibility = () => (
       <img src={progressive_app} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>Discover how virtual queueing works with NoubaTech.  <br /> Download the app and follow the instructions to test your Nouba.</p>
       <h4>Request Early Access to Get Started</h4>
       <div className="app__buttons">
         <a href="#" className="button button-flex">

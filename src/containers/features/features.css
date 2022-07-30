@@ -55,15 +55,12 @@ section {
   margin: 1rem auto 1.5rem;
 }
 
-.service a {
-  color: #5b7abb;
-  display: block;
-}
+
 
 .service h4 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
-  color: #56ceba;
+  color: #1F115A;
   font-size: 1.3rem;
   margin: 1rem 0 0.6rem;
 }
@@ -101,36 +98,47 @@ section {
 .service i {
   font-size: 3.45rem;
   margin: 1rem 0;
+  
+}
+.ti-bar-chart{
+  height: 66px;
+}
+.ti-light-bulb{
+  height: 25px;
+}
+.ti-money{
+  height: 33px;
 }
 
 .service1 i,
 .service1 h4,
 .service1 .cta {
-  color: #536DFE;
+  color: #1F115A;
 }
 
 .service1:hover {
-  border: 2px solid #536DFE;
+  border: 2px solid #1F115A;
 }
 
 .service2 i,
 .service2 h4,
 .service2 .cta {
-  color: #536DFE;
+  margin-top: 0px;
+  color: #1F115A;
 }
 
 .service2:hover {
-  border: 2px solid #536DFE;
+  border: 2px solid #1F115A;
 }
 
 .service3 i,
 .service3 h4,
 .service3 .cta {
-  color: #536DFE;
+  color: #1F115A;
 }
 
 .service3:hover {
-  border: 2px solid #536DFE;
+  border: 2px solid #1F115A;
 }
 
 .service .cta span {

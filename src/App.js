@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css'
-import {Feature, Footer,  Header, Application, Categories} from './containers';
+import {Feature, Footer,  Header, Application} from './containers';
 import { Navbar, HIW} from  './components';
 
 function App() {
@@ -11,7 +11,6 @@ function App() {
       <Header />
       
     <HIW/>
-    <Categories/>
     <Feature/> 
     <Application/>
     <Footer />

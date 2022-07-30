@@ -59,7 +59,7 @@ export default function HIW () {
     },
     ]
   return (
-    <div  className='Steps'>
+    <div  className='Steps' id='HIW'>
     <h3>How it works</h3>
 
     <br/>

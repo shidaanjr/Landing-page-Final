@@ -19,7 +19,6 @@ const Navbar = () => {
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
           <p><a href="#HIW">How it works</a></p>
-          <p><a href="#Category">Category</a></p>
           <p><a href="#service">Services</a></p>
         </div>
       </div>
@@ -34,10 +33,8 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">How it works</a></p>
-          <p><a href="#possibility">Book Ticket</a></p>
-          <p><a href="#features">Contact us</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#HIW">How it works</a></p>
+          <p><a href="#service">Services</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             <button type="button">Book a Ticket</button>

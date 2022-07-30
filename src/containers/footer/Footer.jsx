@@ -11,6 +11,7 @@ const Footer = () => (
         <img src={logotech} alt="gpt3_logo" />
         <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
       </div>
+      <div className='gpt3__footer_bloc'>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
         <p>Overons</p>
@@ -30,10 +31,11 @@ const Footer = () => (
         <p>085-132567</p>
         <p>info@payme.net</p>
       </div>
+      </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 NoubaTech. All rights reserved.</p>
+      <p>@2022 NoubaTech. All rights reserved.</p>
     </div>
   </div>
 );

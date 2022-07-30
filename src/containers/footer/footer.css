@@ -53,7 +53,6 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-
     width: 100%;
     text-align: left;
 }
@@ -95,6 +94,11 @@
     color: #fff;
 
     margin-bottom: 0.9rem;
+}
+.gpt3__footer_bloc{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20rem;
 }
 
 .gpt3__footer-links_div p {
